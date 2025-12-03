@@ -3,7 +3,7 @@
 A high-performance caching system for LLM (Large Language Model) API calls that dramatically speeds up development iteration and reduces costs.
 
 [![Tests](https://github.com/fred3105/llm-cache/workflows/CI/badge.svg)](https://github.com/fred3105/llm-cache/actions)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Why LLM Cache?
